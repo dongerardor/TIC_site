@@ -1,5 +1,13 @@
+Correr el Live Sass Compiler
+(click en "Watch Sass", en la barra inferior de VSCode)
+
 tutorial
 
 https://www.youtube.com/watch?v=BGYW4YSlMAo&list=PLnunbwZjHqMO-JII_HBf5TAzdzaBJP34w&index=6
 
 
+Como crear un tema
+https://designmodo.com/create-bootstrap-theme/
+
+
+Português Español English
