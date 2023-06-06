@@ -26,3 +26,9 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 @import "./node_modules/bootstrap/scss/reboot";
 @import "./node_modules/bootstrap/scss/type";
 // etc
+
+.custom-spacer {
+  width: 100%;
+  height: 400px;
+  background-color: blue;
+}
