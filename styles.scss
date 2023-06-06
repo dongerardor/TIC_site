@@ -29,6 +29,11 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 
 .custom-spacer {
   width: 100%;
-  height: 400px;
+  height: 200px;
+  padding: 10rem;
   background-color: blue;
+}
+
+.icon-starter-cards {
+  font-size: 2rem;
 }
